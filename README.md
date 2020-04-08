@@ -1,6 +1,6 @@
 ## EECS3221-Z Final Project
-**Out:** April 17, 2020 at 8:00am  
-**Due:** April 19, 2020 at 11:59pm
+**Out:** April 17, 2020 at 00:00  
+**Due:** April 19, 2020 at 23:59
 
 ### Description
 Write a program that implements the following disk-scheduling algorithms: 
@@ -17,7 +17,7 @@ The program will be passed the initial position of the disk head and
 report the seek sequence and the total amount of head movement required by each algorithm in a file called 
 `output.txt`. 
 
-The two files provided here serve as sample input and the correct output. Your program should populate the 
+The two files provided here serve as a sample input and the corresponding output. Your program should populate the 
 `input.txt` file with a new random series of 25 unique cylinder requests every time it is being executed.  
 Also, note that the format of your `input.txt` and `output.txt` files should be the same as the sample 
 files provided here. 
@@ -29,7 +29,8 @@ files provided here.
 
 ### Submission and Evaluation 
 You need to submit your `C source code`, `input.txt`, `output.txt` and a `Makefile` that compiles your code in one 
-zip file. Following table shows the grading schema.
+zip file. Please make sure not to submit any other files such as object files, etc.  
+Following table shows the grading schema.
 
 | Item        | Mark           |
 | ------------- |:-------------:|
