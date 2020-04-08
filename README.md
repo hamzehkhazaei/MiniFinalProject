@@ -29,8 +29,8 @@ files provided here.
 
 ### Submission and Evaluation 
 You need to submit your `C source code`, `input.txt`, `output.txt` and a `Makefile` that compiles your code in one 
-zip file. Please make sure not to submit any other files such as object files, etc.  
-Following table shows the grading schema.
+zip file. Please make sure not to submit any other files such as object files, etc. Following table shows the grading 
+schema.
 
 | Item        | Mark           |
 | ------------- |:-------------:|
