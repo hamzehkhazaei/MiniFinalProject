@@ -16,8 +16,8 @@ them according to each of the algorithms listed above. The program will be passe
 write the seek sequence and the total amount of head movement required by each algorithm in a file called 
 `output.txt`. 
 
-The two files provided here serve as a sample input and the correct corresponding output. 
-Note that your program will be tested with different `input.txt` files when grading. 
+The two files provided here serve as a sample input and the correct corresponding output. You may use these two 
+files to test your program. Note that your program will be tested with different `input.txt` files when grading. 
 
 #### Hints
 1. Assume that the *initial head position* is always 33. 
