@@ -23,12 +23,12 @@ files to test your program. Note that your program will be tested with different
 1. Assume that the *initial head position* is always 33. 
 2. In SCAN algorithm, assume that the disk arm is moving toward 0 from the initial head position.
 3. In C_SCAN algorithm, assume that the disk arm is moving toward 99 from the initial head position.
-4. Your program should produce the `output.txt` with the same format as the sample file here.
+4. Your program should produce the `output.txt` with the same format as the sample file provided here.
 
 ### Submission and Evaluation 
 You need to submit your `C source code`, `input.txt`, `output.txt` and a `Makefile` that compiles your code in one 
 zip file. Please make sure not to submit any other files such as object files, etc. Also, note that 
-if we can not `make` your project on the OSC virtual machine, eg. compilation error, the grade will be 0. 
+if we cannot `make` your project on the OSC virtual machine, eg. compilation error, the grade will be 0. 
 The following table shows the grading schema.
 
 | Item        | Mark           |
